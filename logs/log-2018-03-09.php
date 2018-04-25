@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-03-09 11:26:24 --> Severity: Notice --> Undefined variable: start_date C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 101
+ERROR - 2018-03-09 11:26:24 --> Severity: Notice --> Undefined variable: start_read C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 101
+ERROR - 2018-03-09 11:26:24 --> Severity: Notice --> Undefined variable: term_date C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 107
+ERROR - 2018-03-09 11:26:24 --> Severity: Notice --> Undefined variable: term_read C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 107
+ERROR - 2018-03-09 11:34:36 --> Severity: Notice --> Undefined variable: start_date C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 101
+ERROR - 2018-03-09 11:34:36 --> Severity: Notice --> Undefined variable: start_read C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 101
+ERROR - 2018-03-09 11:34:36 --> Severity: Notice --> Undefined variable: term_date C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 107
+ERROR - 2018-03-09 11:34:36 --> Severity: Notice --> Undefined variable: term_read C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 107
+ERROR - 2018-03-09 15:11:47 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\views\backend\standart\administrator\patient_contract\patient_contract_update.php 134

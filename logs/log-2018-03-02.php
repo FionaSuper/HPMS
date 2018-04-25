@@ -1,0 +1,8 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-03-02 14:22:17 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`humphrey`.`patient`, CONSTRAINT `patient_ibfk_1` FOREIGN KEY (`PARTNER_CODE`) REFERENCES `business_partner` (`PARTNER_CODE`) ON DELETE CASCADE) - Invalid query: INSERT INTO `patient` (`PARTNER_CODE`, `CARD_TYPE_CODE`, `PATIENT_NO`, `POLICY_NO`, `DEPD_CODE`, `PATIENT_NAME`, `GENDER`, `DOB`, `HKID`, `REMARK`, `STATUS`, `GP_COPAY`, `SP_COPAY`, `PHY_COPAY`, `HERB_COPAY`, `GP_EXTRA_MED`, `SP_EXTRA_MED`, `HERB_EXTRA_MED`, `WAIVER_REFERRAL`) VALUES ('AIA', 'A', 'FNVJFN', 'RJRNR', 'ANJN', 'GJNRJ', 'F', '2018-03-13', 'ERGER', '', 'Term', '0', '0', '0', '0', '0', '0', '0', 'GGG')
+ERROR - 2018-03-02 15:23:38 --> Severity: Notice --> Undefined index: base_url C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\core\My_Controller.php 61
+ERROR - 2018-03-02 15:25:50 --> Severity: Notice --> Undefined index: base_url C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\core\My_Controller.php 61
+ERROR - 2018-03-02 15:27:00 --> Severity: Notice --> Undefined index: base_url C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\core\My_Controller.php 61
+ERROR - 2018-03-02 15:27:34 --> Severity: Notice --> Undefined index: base_url C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\core\My_Controller.php 61
+ERROR - 2018-03-02 15:28:49 --> Severity: Notice --> Undefined index: base_url C:\Bitnami\wampstack-5.6.32-1\apache2\htdocs\cicool\application\core\My_Controller.php 61
